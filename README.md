@@ -10,3 +10,6 @@
   - Monthly Report
   - Yearly Report
 
+---
+
+## 🗓️ Daily Sales Report
