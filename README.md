@@ -2,6 +2,7 @@
 
 ## 📊 Project Overview
 - Tool Used: *Microsoft Excel*
-- Domain: 
-- Duration: 
-- Objective: 
+- Domain: *Mobile Marketing & Sales Analysis*
+- Duration: *4 Days*
+- Objective: *To analysis the Vivo mobile Sales Vs Profit Growth and Trends of *
+  - Daily Report
