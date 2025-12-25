@@ -55,4 +55,19 @@
 - 3 Quarter of the year made the high sales and profit of all the years.
 
 
+---
 
+## 📉 Yearly Sales Report
+
+
+### 📊 Analysis
+- Every Years profit is increasing only less than 1%.
+- All the months are same like the previous Year months Sales and Profit. No big difference the result.
+- Middle week of all the Months made the consistent Profit & sales of all the years.
+- Weekend made the Relatively High Number of Sales & Profit in all the Years.
+- Middle Price Category made the high number of Sales & Profit of all the Years. And the Profit percentage are 56% more similarly of all the years.
+- Highest Sales & Profitable States is Tamil Nadu and Karnataka. And Highest Model sold is T4 PRO & V50.
+
+### 📊 Conclusion
+- There is no Big Difference in the Yearly Sales and Profit. All the 3 years of Profit is less than 1%.
+- Introduce the New mobile model in Medium Price & Low-Price Category will make a considerable amount of High Sales and Profit of upcoming Years.
