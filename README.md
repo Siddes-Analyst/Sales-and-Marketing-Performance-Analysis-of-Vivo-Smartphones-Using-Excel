@@ -1,6 +1,6 @@
 # Sales and Marketing Performance Analysis of Vivo Smartphones Using Excel
 
-## 📊📌 Project Overview
+## 📌 Project Overview
 - Tool Used: *Microsoft Excel*
 - Domain: *Mobile Marketing & Sales Analysis*
 - Duration: *4 Days*
@@ -38,4 +38,21 @@
 
 ### 📊 Conclusion
 - Especially 2 weeks make the highest number of growths of all the Categories of all months and all years.
+
+---
+
+## 🗓️ Monthly Sales Report
+
+
+### 📊 Analysis
+- May, July, August, October, December is the most sales and profit month of all the years.
+- In all these years February month is the low Sales and profits month and Fixed target is not achievable month.
+- Tamil Nadu and Karnataka are the highest number of Total Sales and Profit maker states of all Months. And states contribute 55% of profit of all the months.
+- T4 Pro & V50 are the medium Price Category Mobiles are made the 55% of total sales and Profits of the months in all years.
+
+### 📊 Conclusion
+- All the 3 years of data October month made a top sales and profit of all the months.
+- 3 Quarter of the year made the high sales and profit of all the years.
+
+
 
