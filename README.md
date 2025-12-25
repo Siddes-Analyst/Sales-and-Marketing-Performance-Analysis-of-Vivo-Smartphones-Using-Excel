@@ -22,4 +22,6 @@
 - Tamil Nadu and Karnataka made a highest number of Profits.
 
 ### 📊 Conclusion
-Compare to Weekdays, Weekends Achieved a 4 to 6% of highest Sales and profit. Especially T4 Pro Mobile is the Highest sold model and Highest profit make in all states. Tamil Nadu is the Highest profit maker of all the states and the profits is 30%.
+- Compare to Weekdays, Weekends Achieved a 4 to 6% of highest Sales and profit.
+- Especially T4 Pro Mobile is the Highest sold model and Highest profit make in all states.
+- Tamil Nadu is the Highest profit maker of all the states and the profits is 30%.
