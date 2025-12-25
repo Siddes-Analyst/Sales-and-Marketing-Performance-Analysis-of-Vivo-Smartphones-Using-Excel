@@ -31,6 +31,7 @@
 
 ## 📝 Weekly Sales Report
 
+![](Images/Weekly.png)
 
 ### 📊 Analysis
 - 2 & 3 Week made a highest number of sales and profits. Mobile sold is 805k, Sales is 23K Cr, Profits is 6.8K Cr.
@@ -44,6 +45,7 @@
 
 ## 🗓️ Monthly Sales Report
 
+![](Images/Monthly.png)
 
 ### 📊 Analysis
 - May, July, August, October, December is the most sales and profit month of all the years.
@@ -60,6 +62,7 @@
 
 ## 📉 Yearly Sales Report
 
+![](Images/Yearly.png)
 
 ### 📊 Analysis
 - Every Years profit is increasing only less than 1%.
