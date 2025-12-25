@@ -14,6 +14,7 @@
 
 ## ⏱️ Daily Sales Report
 
+![](Images/Daily.png)
 
 ### 📊 Analysis
 - 39L Mobile sold, 1.03L Cr sales, 28K Cr profit are happening in overall years.
