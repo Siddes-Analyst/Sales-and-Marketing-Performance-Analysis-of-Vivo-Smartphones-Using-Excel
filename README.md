@@ -12,7 +12,7 @@
 
 ---
 
-## 🗓️ Daily Sales Report
+## ⏱️ Daily Sales Report
 
 
 ### 📊 Analysis
@@ -25,3 +25,17 @@
 - Compare to Weekdays, Weekends Achieved a 4 to 6% of highest Sales and profit.
 - Especially T4 Pro Mobile is the Highest sold model and Highest profit make in all states.
 - Tamil Nadu is the Highest profit maker of all the states and the profits is 30%.
+
+---
+
+## 📝 Weekly Sales Report
+
+
+### 📊 Analysis
+- 2 & 3 Week made a highest number of sales and profits. Mobile sold is 805k, Sales is 23K Cr, Profits is 6.8K Cr.
+- Tamil Nadu and Karnataka are the highest number of Total Sales and Profit maker states.
+- T4 Pro & V50 are the medium Price Category Mobiles are made the 56% of total Profits.
+
+### 📊 Conclusion
+- Especially 2 weeks make the highest number of growths of all the Categories of all months and all years.
+
