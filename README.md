@@ -14,6 +14,7 @@
   - Weekly Report
   - Monthly Report
   - Yearly Report
+  
 ---
 
 ## ⏱️ Daily Sales Report
