@@ -10,14 +10,14 @@
 - Domain: *Mobile Marketing & Sales Analysis*
 - Duration: *4 Days*
 - Objective: *To analysis the Vivo mobile Sales Vs Profit Growth and Trends of*
-  - Daily Report
-  - Weekly Report
-  - Monthly Report
-  - Yearly Report
+  - Daily Analysis
+  - Weekly Analysis
+  - Monthly Analysis
+  - Yearly Analysis
   
 ---
 
-## ⏱️ Daily Sales Report
+## ⏱️ Daily Sales Analysis
 
 ![](Images/Daily.png)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 📝 Weekly Sales Report
+## 📝 Weekly Sales Analysis
 
 ![](Images/Weekly.png)
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🗓️ Monthly Sales Report
+## 🗓️ Monthly Sales Analysis
 
 ![](Images/Monthly.png)
 
@@ -65,7 +65,7 @@
 
 ---
 
-## 📉 Yearly Sales Report
+## 📉 Yearly Sales Analysis
 
 ![](Images/Yearly.png)
 
