@@ -26,7 +26,7 @@
 - T4 Pro & V50 are the medium Price Category Mobiles are made the 56% of total Profits.
 - Tamil Nadu and Karnataka made a highest number of Profits.
 
-### 📊 Conclusion
+### 🎯 Conclusion
 - Compare to Weekdays, Weekends Achieved a 4 to 6% of highest Sales and profit.
 - Especially T4 Pro Mobile is the Highest sold model and Highest profit make in all states.
 - Tamil Nadu is the Highest profit maker of all the states and the profits is 30%.
@@ -42,7 +42,7 @@
 - Tamil Nadu and Karnataka are the highest number of Total Sales and Profit maker states.
 - T4 Pro & V50 are the medium Price Category Mobiles are made the 56% of total Profits.
 
-### 📊 Conclusion
+### 🎯 Conclusion
 - Especially 2 weeks make the highest number of growths of all the Categories of all months and all years.
 
 ---
@@ -57,7 +57,7 @@
 - Tamil Nadu and Karnataka are the highest number of Total Sales and Profit maker states of all Months. And states contribute 55% of profit of all the months.
 - T4 Pro & V50 are the medium Price Category Mobiles are made the 55% of total sales and Profits of the months in all years.
 
-### 📊 Conclusion
+### 🎯 Conclusion
 - All the 3 years of data October month made a top sales and profit of all the months.
 - 3 Quarter of the year made the high sales and profit of all the years.
 
@@ -76,6 +76,6 @@
 - Middle Price Category made the high number of Sales & Profit of all the Years. And the Profit percentage are 56% more similarly of all the years.
 - Highest Sales & Profitable States is Tamil Nadu and Karnataka. And Highest Model sold is T4 PRO & V50.
 
-### 📊 Conclusion
+### 🎯 Conclusion
 - There is no Big Difference in the Yearly Sales and Profit. All the 3 years of Profit is less than 1%.
 - Introduce the New mobile model in Medium Price & Low-Price Category will make a considerable amount of High Sales and Profit of upcoming Years.
