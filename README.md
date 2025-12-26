@@ -14,7 +14,7 @@
   - Weekly Report
   - Monthly Report
   - Yearly Report
-
+![](Images/Dashboard.png)
 ---
 
 ## ⏱️ Daily Sales Report
